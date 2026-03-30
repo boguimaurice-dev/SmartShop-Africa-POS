@@ -1,0 +1,7 @@
+{
+  "name": "SmartShop Africa POS",
+  "description": "A high-performance SaaS Point of Sale for African merchants, featuring barcode scanning, inventory management, and Mobile Money integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
